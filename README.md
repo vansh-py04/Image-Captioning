@@ -5,3 +5,5 @@ Data split : Training data = 6000 Images,  Testing data = 1000 Images, Validatio
 
 # Model Architechture
 ![image](https://github.com/vansh-py04/Image-Captioning/assets/128248352/21824ccf-0962-4505-ac50-f0eef2a72cf9)
+
+# Model Weight losses
