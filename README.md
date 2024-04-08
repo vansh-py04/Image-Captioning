@@ -1,6 +1,9 @@
 # Image-Captioning
 
+Image Captioning is the task of translating an input image into a textual description. As such, it connects Vision and Language in a generative fashion, with applications that range from multi-modal search engines to help visually impaired people.
+
 Dataset used : https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 Data split : Training data = 6000 Images,  Testing data = 1000 Images, Validation data = 1000 Images
 
 # Model Architechture
