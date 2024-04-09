@@ -16,3 +16,4 @@ Based on this, model_19 was used for making predictions
 # Predictions 
 ![image](https://github.com/vansh-py04/Image-Captioning/assets/128248352/165219b1-e267-460d-bcb9-db6cce62e724)
 
+![image](https://github.com/vansh-py04/Image-Captioning/assets/128248352/53a2c2c9-d515-426f-b8ae-084f71ab3733)
